@@ -1,6 +1,7 @@
 # Ssrdemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.6.
+This Project will help you route directly "http://localhost:4200/demo2". Without using SSR it will throw error if you are directly going to a route instead of via index.html
 
 ## Development server
 
